@@ -28,7 +28,7 @@ Tools
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
         style="height : auto; margin-left : 30px; margin-right : 30px;"/>
 </a>
-<a href="https://alpox.kr">
+<a href="https://snder.tistory.com">
     <img 
         src="http://img.shields.io/badge/-Tistory-655ced?style=flat&logo=github&link=https://snder.tistory.com"
         style="height : auto; margin-left : 15px; margin-right : 15px;"/>
