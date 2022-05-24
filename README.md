@@ -1,6 +1,6 @@
 Welcome Eilison98 Home
 ======================
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Eilison's&nbsp;PROFILE&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Eilison's&nbsp;PROFILE&fontSize=90)
 
 Profile
 =======
@@ -29,7 +29,7 @@ Tools
 -----
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-:mailbox_with_mail: ctivity
+:mailbox_with_mail: Activity
 ===========================
 <a href="https://www.instagram.com/accounts/login/?next=/eiliso.n">
     <img 
