@@ -22,4 +22,14 @@ Tools
 
 :mailbox_with_mail: Contact
 ----
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=in05013300@gmail.com)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="https://instagram.com/alpox.dev">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        style="height : auto; margin-left : 30px; margin-right : 30px;"/>
+</a>
+<a href="https://alpox.kr">
+    <img 
+        src="http://img.shields.io/badge/-Tistory-655ced?style=flat&logo=github&link=[https:](https://snder.tistory.com/)//alpox.kr"
+        style="height : auto; margin-left : 15px; margin-right : 15px;"/>
+</a>
