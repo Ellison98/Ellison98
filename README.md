@@ -30,6 +30,6 @@ Tools
 </a>
 <a href="https://alpox.kr">
     <img 
-        src="http://img.shields.io/badge/-Tistory-655ced?style=flat&logo=github&link=[https:](https://snder.tistory.com/)//alpox.kr"
+        src="http://img.shields.io/badge/-Tistory-655ced?style=flat&logo=github&link=https://snder.tistory.com"
         style="height : auto; margin-left : 15px; margin-right : 15px;"/>
 </a>
