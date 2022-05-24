@@ -23,7 +23,7 @@ Tools
 :mailbox_with_mail: Contact
 ----
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-<a href="https://instagram.com/alpox.dev">
+<a href="https://www.instagram.com/accounts/login/?next=/eiliso.n">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
         style="height : auto; margin-left : 30px; margin-right : 30px;"/>
