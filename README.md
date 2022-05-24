@@ -22,7 +22,8 @@ Tools
 
 :mailbox_with_mail: Contact
 ----
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : in05013300@gmail.com
+
 <a href="https://www.instagram.com/accounts/login/?next=/eiliso.n">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
