@@ -7,7 +7,7 @@ Profile
 * 이름 : 임성수
 * 활동 : IoT교육과정(21.01~)
 * Email : in05013300@gmail.com
-* 주요 프로그램 :
+* 주요 프로그램 : 
 
 
 Total GitHub
