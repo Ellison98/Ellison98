@@ -27,7 +27,8 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=in3300)](https://solv
 * C 
 * C++
 * C#
-* MSSQL
+* .NET
+* SQL
 
 |기술분류|보유기술|기술분류|보유기술|
 |:---:|:---:|:---:|:---:|
@@ -39,7 +40,7 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=in3300)](https://solv
 |C++| C++ 기초문법 습득|||
 || 객체지향언어 개념 이해 |||
 |SQL|DML을 활용해서 필요한 정보 추출|||
-|MS-SQL||DB 설치 및 기본 SQL 작성|
+|MS-SQL|DB 설치 및 기본 SQL 작성||
 
 ## 🛠️ Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
