@@ -8,6 +8,8 @@ Profile
 * Email : in05013300@gmail.com
 * 주요 프로그램 :[네이버영화검색(Open API)](https://github.com/Eilison98/StudyWpf/tree/main/PortFolio)
 
+## 프로그램 구현
+- NaverMovieFinderApp
 
 ## Total GitHub
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Eilison98&show_icons=ture&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
