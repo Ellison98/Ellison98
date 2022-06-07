@@ -9,8 +9,7 @@ Profile
 * 주요 프로그램 :[네이버영화검색(Open API)](https://github.com/Eilison98/StudyWpf/tree/main/PortFolio)
 
 ## 프로그램 구현
-                                                  NaverMovieFinderApp(OpenApi)
-
+`NaverMovieFinderApp(OpenApi)`
 
 <p align = "center">
 <img src ="https://user-images.githubusercontent.com/93025344/172283288-1064c813-f3eb-4886-8dff-147233c3c1ed.gif">
