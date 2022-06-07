@@ -9,8 +9,13 @@ Profile
 * 주요 프로그램 :[네이버영화검색(Open API)](https://github.com/Eilison98/StudyWpf/tree/main/PortFolio)
 
 ## 프로그램 구현
-`NaverMovieFinderApp`
+                                                  NaverMovieFinderApp(OpenApi)
 
+
+<p align = "center">
+<img src ="https://user-images.githubusercontent.com/93025344/172283288-1064c813-f3eb-4886-8dff-147233c3c1ed.gif">
+</p>
+    
 ## Total GitHub
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Eilison98&show_icons=ture&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
