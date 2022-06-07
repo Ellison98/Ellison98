@@ -1,5 +1,5 @@
 # 👍 Welcome Eilison98 Home 👍
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Eilison's&nbsp;PROFILE&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Eilison's&nbsp;PROFILE&fontSize=100)
 
 Profile
 =======
@@ -15,6 +15,8 @@ Profile
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Eilison98&show_icons=ture&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEilison98&count_bg=%238366D4&title_bg=%23379A9C&icon=reddit.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eilison98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## BaekJoon Tier
 [![Solved.ac
