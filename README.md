@@ -6,13 +6,14 @@ Profile
 * 😄 이름 : 임성수
 * 🌱 활동 : IoT교육과정(21.01~)
 * 📫 Email : in05013300@gmail.com
-* ⚡ 주요 프로그램 :[네이버영화검색(Open API)](https://github.com/Eilison98/StudyWpf/tree/main/PortFolio#naver-%EC%98%81%ED%99%94%EA%B2%80%EC%83%89),  [SmartHome 모니터링앱](https://github.com/Eilison98/StudyWpf/tree/main/PortFolio#smarthome-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%95%B1)
+* ⚡ 주요 프로그램 :[네이버영화검색(Open API)](https://github.com/Eilison98/StudyWpf/tree/main/PortFolio#naver-%EC%98%81%ED%99%94%EA%B2%80%EC%83%89)
+,  [SmartHome 모니터링앱](https://github.com/Eilison98/StudyWpf/tree/main/PortFolio#smarthome-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%95%B1)
 
 ## 프로그램 구현
 `NaverMovieFinderApp(OpenApi)`
 
 <p align = "center">
-<img src ="https://user-images.githubusercontent.com/93025344/172283288-1064c813-f3eb-4886-8dff-147233c3c1ed.gif">
+<img src ="https://user-images.githubusercontent.com/93025344/173316974-5d7ecbf3-148a-4e1e-88fa-0eb7488037c9.gif">
 </p>
 
 `SmartHome Monitoring`
