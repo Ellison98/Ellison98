@@ -6,7 +6,7 @@ Profile
 * 😄 이름 : 임성수
 * 🌱 활동 : IoT교육과정(21.01~)
 * 📫 Email : in05013300@gmail.com
-* ⚡ 주요 프로그램 :[네이버영화검색(Open API)](https://github.com/Eilison98/StudyWpf/tree/main/PortFolio#naver-%EC%98%81%ED%99%94%EA%B2%80%EC%83%89)),  [SmartHome 모니터링앱](https://github.com/Eilison98/StudyWpf/tree/main/PortFolio#smarthome-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%95%B1)
+* ⚡ 주요 프로그램 :[네이버영화검색(Open API)](https://github.com/Eilison98/StudyWpf/tree/main/PortFolio#naver-%EC%98%81%ED%99%94%EA%B2%80%EC%83%89),  [SmartHome 모니터링앱](https://github.com/Eilison98/StudyWpf/tree/main/PortFolio#smarthome-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%95%B1)
 
 ## 프로그램 구현
 `NaverMovieFinderApp(OpenApi)`
@@ -49,7 +49,17 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=in3300)](https://solv
 |MS-SQL|DB 설치 및 기본 SQL 작성||
 
 ## 🛠️ Tools
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<p align='left'>
+    <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png">
+    <img height="40" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
+    <img height="40" src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/logo.png">
+    <img height="40" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/PuTTY_icon_128px.png">
+    <img height="40" src="https://img.icons8.com/color/48/000000/raspberry-pi.png">
+    <img height="40" src="https://mosquitto.org/stickers/mosquitto-mono.png">
+    <img height="40" src="https://taiwebs.com/upload/icons/vnc-connect-enterprise220-220.png">
+</p>
+
 
 ## 사용 Tools - 명칭
 * Visual Studio
