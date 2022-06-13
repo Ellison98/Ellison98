@@ -15,7 +15,7 @@ Profile
 <img src ="https://user-images.githubusercontent.com/93025344/172283288-1064c813-f3eb-4886-8dff-147233c3c1ed.gif">
 </p>
 
-`SmartHome `
+`SmartHome Monitoring`
 
 <p align = "center">
 <img src = "https://user-images.githubusercontent.com/93025344/173310583-8cdc7ad1-4d74-485f-a8b5-9c36b14ddbcf.gif"
