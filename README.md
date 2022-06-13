@@ -27,7 +27,7 @@ Profile
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=in3300)](https://solved.ac/in3300)
 
 ## Using Languages
-<a href="[https://github.com/hugoMGSung/StudyWPF.git](https://github.com/Eilison98/StudyWpf)" target="_blank"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
+<a href="https://github.com/Eilison98/StudyWpf" target="_blank"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
 
 ## 사용 언어 - 명칭
 * C 
