@@ -35,6 +35,7 @@ Profile
 >
 </p>
     
+<br/>
     
 ## Total GitHub
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Eilison98&show_icons=ture&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
@@ -43,12 +44,18 @@ Profile
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eilison98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<br/>
+
 ## BaekJoon Tier
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=in3300)](https://solved.ac/in3300)
 
+<br/>
+
 ## Using Languages
 <a href="https://github.com/Eilison98/StudyWpf" target="_blank"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
+
+<br/>
 
 ## 사용 언어 - 명칭
 * C 
@@ -56,6 +63,8 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=in3300)](https://solv
 * C#
 * .NET
 * SQL
+
+<br/>
 
 |기술분류|보유기술|기술분류|보유기술|
 |:---:|:---:|:---:|:---:|
@@ -69,6 +78,8 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=in3300)](https://solv
 |SQL|DML을 활용해서 필요한 정보 추출|||
 |MS-SQL|DB 설치 및 기본 SQL 작성||
 
+<br/>
+
 ## 🛠️ Tools
 <p align='left'>
     <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png">
@@ -81,11 +92,14 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=in3300)](https://solv
     <img height="40" src="https://taiwebs.com/upload/icons/vnc-connect-enterprise220-220.png">
 </p>
 
+<br/>
 
 ## 사용 Tools - 명칭
 * Visual Studio
 * SSMS( SQL Server Management Studio )
 * GitHub
+
+<br/>
 
 |기술분류|보유기술|기술분류|보유기술|
 |:---:|:---:|:---:|:---:|
