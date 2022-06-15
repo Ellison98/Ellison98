@@ -13,15 +13,13 @@ Profile
 
 <br/>
 
-<br/>
-
 <a href="https://snder.tistory.com">
     <img 
         src="http://img.shields.io/badge/-Tistory-655ced?style=flat&logo=github&link=https://snder.tistory.com"
         style="height : auto; margin-left : 15px; margin-right : 15px;"/>
 </a>
 
-
+<br/>
 
 ## 프로그램 구현
 `NaverMovieFinderApp(OpenApi)`
