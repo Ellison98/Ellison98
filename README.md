@@ -89,15 +89,4 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=in3300)](https://solv
 |TOOL||TOOL||
 |Visual Studio||||
 
-## :mailbox_with_mail:  Activity
-<a href="https://www.instagram.com/accounts/login/?next=/eiliso.n">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
-        style="height : auto; margin-left : 30px; margin-right : 30px;"/>
-</a>
-<a href="https://snder.tistory.com">
-    <img 
-        src="http://img.shields.io/badge/-Tistory-655ced?style=flat&logo=github&link=https://snder.tistory.com"
-        style="height : auto; margin-left : 15px; margin-right : 15px;"/>
-</a>
-
+<br/>
