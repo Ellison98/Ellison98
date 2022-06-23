@@ -56,11 +56,13 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=in3300)](https://solv
 <p align='left'>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%2B%2B-87CEEB?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <a href=https://github.com/Eilison98/StudyWpf>
+    <a href=https://github.com/Eilison98/StudyWpf>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  </a>
+    </a>
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+    <a href=https://github.com/Eilison98/DataStructure_Algorithm#datastructure_algorithm>
     <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=white"/>
+    </a>
     <img src="https://img.shields.io/badge/MSSQL-B22222?style=for-the-badge&logo=sql&logoColor=white"/>
 </p>
 
