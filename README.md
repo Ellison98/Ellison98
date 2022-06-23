@@ -57,7 +57,9 @@ Profile
     <a href=https://github.com/Eilison98/StudyC>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     </a>
+    <a href=https://github.com/Eilison98/StudyCPP>
     <img src="https://img.shields.io/badge/C%2B%2B-87CEEB?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    </a>
     <a href=https://github.com/Eilison98/StudyWpf>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     </a>
