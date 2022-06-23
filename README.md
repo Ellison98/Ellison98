@@ -47,8 +47,7 @@ Profile
 <br/>
 
 ## BaekJoon Tier
-[![Solved.ac
-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=in3300)](https://solved.ac/in3300)
+[![Solved.acProfile](http://mazassumnida.wtf/api/v2/generate_badge?boj=in3300)](https://solved.ac/in3300)
 
 <br/>
 
