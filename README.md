@@ -60,7 +60,6 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=in3300)](https://solv
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   </a>
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  <a href="https://github.com/jacksimuse/StudyHtml">
     <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/MSSQL-B22222?style=for-the-badge&logo=sql&logoColor=white"/>
 </p>
