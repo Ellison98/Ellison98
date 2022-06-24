@@ -11,7 +11,7 @@ Profile
 *  👯 소소한 프로그램 : [테트리스 게임](https://github.com/Eilison98/StudyCS/tree/main/WPF_SelfStudy#tetris) , 
                        [ERP 프로그램](https://github.com/Eilison98/StudyCS/tree/main/WPF_SelfStudy#erp) ,
                        [CarInfo](https://github.com/Eilison98/StudyWinForm#mook_carinfo) , 
-                       [Messanger](https://github.com/Eilison98/StudyWinForm/blob/main/README.md#messanger)
+                       [Messanger](https://github.com/Eilison98/StudyWinForm#messanger)
 
 <br/>
 
