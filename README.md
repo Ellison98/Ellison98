@@ -115,7 +115,6 @@ Profile
 ## 사용 Tools - 명칭
 * Visual Studio
 * SSMS( SQL Server Management Studio )
-* GitHub
 
 <br/>
 
