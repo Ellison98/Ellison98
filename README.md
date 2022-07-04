@@ -1,12 +1,15 @@
+
+<div align = "center">
+
 # 👍 Welcome Eilison98 Home 👍
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Eilison's&nbsp;PROFILE&fontSize=100)
 
 Profile
 =======
-* 😄 이름 : 임성수
-* 🌱 활동 : IoT교육과정(21.01~)
-* 📫 Email : in05013300@gmail.com
-* ⚡ 주요 프로그램 :[네이버영화검색(Open API)](https://github.com/Eilison98/StudyWpf/tree/main/PortFolio#naver-%EC%98%81%ED%99%94%EA%B2%80%EC%83%89)
+😄 이름 : 임성수 <br/>
+🌱 활동 : IoT교육과정(21.01~) <br/>
+📫 Email : in05013300@gmail.com <br/>
+⚡ 주요 프로그램 :[네이버영화검색(Open API)](https://github.com/Eilison98/StudyWpf/tree/main/PortFolio#naver-%EC%98%81%ED%99%94%EA%B2%80%EC%83%89)
 ,                  [SmartHome 모니터링앱](https://github.com/Eilison98/StudyWpf/tree/main/PortFolio#smarthome-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%95%B1)
 
 <br/>
@@ -69,11 +72,7 @@ Profile
 <br/>
 
 ## 사용 언어 - 명칭
-* C 
-* C++
-* C#
-* .NET
-* SQL
+C, C++, C#, SQL
 
 <br/>
 
@@ -107,14 +106,16 @@ Profile
 <br/>
 
 ## 사용 Tools - 명칭
-* Visual Studio
-* SSMS( SQL Server Management Studio )
+Visual Studio <br/>
+SSMS( SQL Server Management Studio )
 
 <br/>
 
 |기술분류|보유기술|기술분류|보유기술|
 |:---:|:---:|:---:|:---:|
 |TOOL||TOOL||
-|Visual Studio||Visual Studio Code||
+|Visual Studio||||
+
+</div>
 
 <br/>
