@@ -54,7 +54,7 @@ Profile
 
 ## Using Languages
 (클릭하면 해당 Repository로 이동)
-<p align='left'>
+<p align='center'>
     <a href=https://github.com/Eilison98/StudyC>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     </a>
@@ -91,7 +91,7 @@ C, C++, C#, SQL
 <br/>
 
 ## 🛠️ Tools
-<p align='left'>
+<p align='center'>
     <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png">
     <img height="40" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
     <img height="40" src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/logo.png">
