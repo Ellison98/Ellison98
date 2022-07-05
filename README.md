@@ -66,7 +66,10 @@ Profile
     </a>
     <a href=https://github.com/Eilison98/StudySqlServer#studysqlserver>
     <img src="https://img.shields.io/badge/MSSQL-B22222?style=for-the-badge&logo=sql&logoColor=white"/>
-    </
+    </a>
+      <a href="https://github.com/Eilison98/OpenCV_Python">
+    <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
 </p>
 
 <br/>
