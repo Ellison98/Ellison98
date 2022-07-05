@@ -106,8 +106,6 @@
 <br/>
 
 ## 사용 Tools - 명칭
-Visual Studio <br/>
-SSMS( SQL Server Management Studio )
 
 <br/>
 
