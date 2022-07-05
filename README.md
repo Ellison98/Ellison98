@@ -2,10 +2,9 @@
 <div align = "center">
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you.
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Eilison's&nbsp;PROFILE&fontSize=100)
 
-Profile
-=======
+<br/>
+
 😄 이름 : 임성수 <br/>
 🌱 활동 : IoT교육과정(21.01~) <br/>
 📫 Email : in05013300@gmail.com <br/>
@@ -73,8 +72,7 @@ Profile
 
 <br/>
 
-## 사용 언어 - 명칭
-C, C++, C#, SQL
+## 사용 언어
 
 <br/>
 
