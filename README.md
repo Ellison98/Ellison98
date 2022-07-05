@@ -26,14 +26,13 @@ Profile
 `NaverMovieFinderApp(OpenApi)`
 
 <p align = "center">
-<img src ="https://user-images.githubusercontent.com/93025344/173316974-5d7ecbf3-148a-4e1e-88fa-0eb7488037c9.gif">
+<img src ="https://user-images.githubusercontent.com/93025344/173316974-5d7ecbf3-148a-4e1e-88fa-0eb7488037c9.gif" width="550" height="400">
 </p>
 
 `SmartHome Monitoring`
 
 <p align = "center">
-<img src = "https://user-images.githubusercontent.com/93025344/173310583-8cdc7ad1-4d74-485f-a8b5-9c36b14ddbcf.gif"
->
+<img src = "https://user-images.githubusercontent.com/93025344/173310583-8cdc7ad1-4d74-485f-a8b5-9c36b14ddbcf.gif" width="550" height="400">
 </p>
     
 <br/>
