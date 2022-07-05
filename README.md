@@ -114,7 +114,7 @@ SSMS( SQL Server Management Studio )
 |기술분류|보유기술|기술분류|보유기술|
 |:---:|:---:|:---:|:---:|
 |TOOL||TOOL||
-|Visual Studio||||
+|Visual Studio||Visual Studio Code|
 
 </div>
 
