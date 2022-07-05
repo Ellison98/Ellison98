@@ -9,8 +9,8 @@ Profile
 😄 이름 : 임성수 <br/>
 🌱 활동 : IoT교육과정(21.01~) <br/>
 📫 Email : in05013300@gmail.com <br/>
-⚡ 주요 프로그램 :[네이버영화검색(Open API)](https://github.com/Eilison98/StudyWpf/tree/main/PortFolio#naver-%EC%98%81%ED%99%94%EA%B2%80%EC%83%89)
-,                  [SmartHome 모니터링앱](https://github.com/Eilison98/StudyWpf/tree/main/PortFolio#smarthome-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%95%B1)
+⚡ 주요 프로그램 :[네이버영화검색(Open API)](https://github.com/Eilison98/StudyCS/tree/main/StudyWpf/PortFolio#naver-%EC%98%81%ED%99%94%EA%B2%80%EC%83%89)
+,                  [SmartHome 모니터링앱](https://github.com/Eilison98/StudyCS/tree/main/StudyWpf/PortFolio#smarthome-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%95%B1)
 
 <br/>
 
@@ -61,7 +61,7 @@ Profile
     <a href=https://github.com/Eilison98/StudyCPP>
     <img src="https://img.shields.io/badge/C%2B%2B-87CEEB?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     </a>
-    <a href=https://github.com/Eilison98/StudyWpf>
+    <a href=https://github.com/Eilison98/StudyCS>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     </a>
     <a href=https://github.com/Eilison98/StudySqlServer#studysqlserver>
