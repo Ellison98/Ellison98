@@ -8,8 +8,10 @@
 😄 이름 : 임성수 <br/>
 🌱 활동 : IoT교육과정(21.01~) <br/>
 📫 Email : in05013300@gmail.com <br/>
+🔭 Blog : https://snder.tistory.com <br/>
 ⚡ 주요 프로그램 :[네이버영화검색(Open API)](https://github.com/Eilison98/StudyCS/tree/main/StudyWpf/PortFolio#naver-%EC%98%81%ED%99%94%EA%B2%80%EC%83%89)
 ,                  [SmartHome 모니터링앱](https://github.com/Eilison98/StudyCS/tree/main/StudyWpf/PortFolio#smarthome-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%95%B1)
+
 
 <br/>
 
@@ -59,14 +61,6 @@
     <img height="40" src="https://img.icons8.com/fluent/48/000000/vmware-workstation-player.png">
     <img height="40" src="https://taiwebs.com/upload/icons/vnc-connect-enterprise220-220.png">
 </p>
-
-<br/>
-
-<a href="https://snder.tistory.com">
-    <img 
-        src="http://img.shields.io/badge/-Tistory-655ced?style=flat&logo=github&link=https://snder.tistory.com"
-        style="height : auto; margin-left : 15px; margin-right : 15px;"/>
-</a>
 
 <br/>
 
