@@ -13,6 +13,55 @@
 
 <br/>
 
+## Using Languages
+(클릭하면 해당 Repository로 이동)
+<p align='center'>
+    <a href=https://github.com/Eilison98/StudyC>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    </a>
+    <a href=https://github.com/Eilison98/StudyCPP>
+    <img src="https://img.shields.io/badge/C%2B%2B-87CEEB?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    </a>
+    <a href=https://github.com/Eilison98/StudyCS>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    </a>
+    <a href=https://github.com/Eilison98/StudySqlServer#studysqlserver>
+    <img src="https://img.shields.io/badge/MSSQL-B22222?style=for-the-badge&logo=sql&logoColor=white"/>
+    </a>
+      <a href="https://github.com/Eilison98/OpenCV_Python">
+    <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+    <a href="https://github.com/Eilison98/ASP.NET">
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Eilison98/ASP.NET">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Eilison98/ASP.NET">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  </a>
+  <a href="https://github.com/Eilison98/ASP.NET">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+
+<br/>
+
+## 🛠️ Tools
+<p align='center'>
+    <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png">
+    <img height="40" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
+    <img height="40" src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/logo.png">
+    <img height="40" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/PuTTY_icon_128px.png">
+    <img height="40" src="https://img.icons8.com/color/48/000000/raspberry-pi.png">
+    <img height="40" src="https://mosquitto.org/stickers/mosquitto-mono.png">
+    <img height="40" src="https://img.icons8.com/fluent/48/000000/vmware-workstation-player.png">
+    <img height="40" src="https://taiwebs.com/upload/icons/vnc-connect-enterprise220-220.png">
+</p>
+
+<br/>
+
 <a href="https://snder.tistory.com">
     <img 
         src="http://img.shields.io/badge/-Tistory-655ced?style=flat&logo=github&link=https://snder.tistory.com"
@@ -50,40 +99,7 @@
 
 <br/>
 
-## Using Languages
-(클릭하면 해당 Repository로 이동)
-<p align='center'>
-    <a href=https://github.com/Eilison98/StudyC>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-    </a>
-    <a href=https://github.com/Eilison98/StudyCPP>
-    <img src="https://img.shields.io/badge/C%2B%2B-87CEEB?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    </a>
-    <a href=https://github.com/Eilison98/StudyCS>
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    </a>
-    <a href=https://github.com/Eilison98/StudySqlServer#studysqlserver>
-    <img src="https://img.shields.io/badge/MSSQL-B22222?style=for-the-badge&logo=sql&logoColor=white"/>
-    </a>
-      <a href="https://github.com/Eilison98/OpenCV_Python">
-    <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
-    <a href="https://github.com/Eilison98/ASP.NET">
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Eilison98/ASP.NET">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Eilison98/ASP.NET">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  </a>
-  <a href="https://github.com/Eilison98/ASP.NET">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-<br/>
-
-## 사용 언어
+## 언어공부 
 
 <br/>
 
@@ -100,30 +116,6 @@
 |MS-SQL|DB 설치 및 기본 SQL 작성||
 
 <br/>
-
-## 🛠️ Tools
-<p align='center'>
-    <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png">
-    <img height="40" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
-    <img height="40" src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/logo.png">
-    <img height="40" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/PuTTY_icon_128px.png">
-    <img height="40" src="https://img.icons8.com/color/48/000000/raspberry-pi.png">
-    <img height="40" src="https://mosquitto.org/stickers/mosquitto-mono.png">
-    <img height="40" src="https://img.icons8.com/fluent/48/000000/vmware-workstation-player.png">
-    <img height="40" src="https://taiwebs.com/upload/icons/vnc-connect-enterprise220-220.png">
-</p>
-
-<br/>
-
-## 사용 Tools - 명칭
-
-<br/>
-
-|기술분류|보유기술|기술분류|보유기술|
-|:---:|:---:|:---:|:---:|
-|TOOL||TOOL||
-|Visual Studio||Visual Studio Code|
 
 </div>
 
