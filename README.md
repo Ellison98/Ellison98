@@ -6,7 +6,7 @@
 <br/>
 
 😄 이름 : 임성수 <br/>
-🌱 활동 : IoT교육과정(21.01~) <br/>
+🌱 활동 : IT기획 (2022/08 ~ )<br/>
 📫 Email : in05013300@gmail.com <br/>
 🔭 Blog : https://snder.tistory.com <br/>
 ⚡ 주요 프로그램 :[네이버영화검색(Open API)](https://github.com/Eilison98/StudyCS/tree/main/StudyWpf/PortFolio#naver-%EC%98%81%ED%99%94%EA%B2%80%EC%83%89)
