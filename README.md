@@ -60,55 +60,6 @@
     <img height="40" src="https://taiwebs.com/upload/icons/vnc-connect-enterprise220-220.png">
 </p>
 
-<br/>
-
-## 프로그램 구현
-`NaverMovieFinderApp(OpenApi)`
-
-<p align = "center">
-<img src ="https://user-images.githubusercontent.com/93025344/173316974-5d7ecbf3-148a-4e1e-88fa-0eb7488037c9.gif" width="600" height="300">
-</p>
-
-`SmartHome Monitoring`
-
-<p align = "center">
-<img src = "https://user-images.githubusercontent.com/93025344/173310583-8cdc7ad1-4d74-485f-a8b5-9c36b14ddbcf.gif" width="600" height="300">
-</p>
-    
-<br/>
-    
-## Total GitHub
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Eilison98&show_icons=ture&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eilison98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEilison98&count_bg=%238366D4&title_bg=%23379A9C&icon=reddit.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<br/>
-
-## BaekJoon Tier
-[![Solved.acProfile](http://mazassumnida.wtf/api/v2/generate_badge?boj=in3300)](https://solved.ac/in3300)
-
-<br/>
-
-## 언어공부 
-
-<br/>
-
-|기술분류|보유기술|기술분류|보유기술|
-|:---:|:---:|:---:|:---:|
-|Language||Language||
-|C| C 기초문법 습득 |C#| C# 문법 습득 |
-|| C언어를 활용한 자료구조 및 알고리즘 학습|| 객체지향 개념 이해 및 데이터베이스와 연동|
-||절차지향언어 개념 이해||간단한 자동차관리 프로그램 구현|
-|||| WinForm, WPF 프로그램 구현 |
-|C++| C++ 기초문법 습득||C#을 사용한 알고리즘 공부|
-|| 객체지향언어 개념 이해 |||
-|SQL|DML을 활용해서 필요한 정보 추출|||
-|MS-SQL|DB 설치 및 기본 SQL 작성||
-
-<br/>
-
 </div>
 
 <br/>
