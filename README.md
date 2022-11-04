@@ -11,11 +11,6 @@
 🔭 Blog : https://snder.tistory.com <br/>
 ⚡ 주요 프로그램 :[네이버영화검색(Open API)](https://github.com/Eilison98/StudyCS/tree/main/StudyWpf/PortFolio#naver-%EC%98%81%ED%99%94%EA%B2%80%EC%83%89)
 ,                  [SmartHome 모니터링앱](https://github.com/Eilison98/StudyCS/tree/main/StudyWpf/PortFolio#smarthome-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%95%B1)
-
-
-<br/>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=in3300)](https://solved.ac/in3300/)
     
 <br/>
     
@@ -64,6 +59,11 @@
     <img height="40" src="https://taiwebs.com/upload/icons/vnc-connect-enterprise220-220.png">
 </p>
 
-</div>
+<br/>
+
+## BaekJoon Online Judge
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=in3300)](https://solved.ac/in3300/)
 
 <br/>
+
+</div>
