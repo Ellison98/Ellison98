@@ -15,6 +15,10 @@
 
 <br/>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=in3300)](https://solved.ac/in3300/)
+    
+<br/>
+    
 ## Using Languages
 (클릭하면 해당 Repository로 이동)
 <p align='center'>
