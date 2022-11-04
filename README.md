@@ -6,10 +6,10 @@
 <br/>
 
 😄 이름 : 임성수 <br/>
-🌱 활동 : IT기획 (2022/08 ~ )<br/>
+🌱 활동 : 윈도우 플랫봄기반 IoT시스템 개발자과정 (2022.01.24 ~ 2022.09.07) <br/> IT기획 (2022/08 ~ )<br/>
 📫 Email : in05013300@gmail.com <br/>
 🔭 Blog : https://snder.tistory.com <br/>
-⚡ 주요 프로그램 :[네이버영화검색(Open API)](https://github.com/Eilison98/StudyCS/tree/main/StudyWpf/PortFolio#naver-%EC%98%81%ED%99%94%EA%B2%80%EC%83%89)
+⚡ 프로그램 :[네이버영화검색(Open API)](https://github.com/Eilison98/StudyCS/tree/main/StudyWpf/PortFolio#naver-%EC%98%81%ED%99%94%EA%B2%80%EC%83%89)
 ,                  [SmartHome 모니터링앱](https://github.com/Eilison98/StudyCS/tree/main/StudyWpf/PortFolio#smarthome-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%95%B1)
     
 <br/>
