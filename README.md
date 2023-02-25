@@ -26,6 +26,9 @@
     <a href=https://github.com/Eilison98/StudyCS>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     </a>
+    <a href=https://github.com/Eilison98/JavaWorkspace>
+    <img src="https://img.shields.io/badge/JAVA-B22519?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    </a>
     <a href=https://github.com/Eilison98/StudySqlServer#studysqlserver>
     <img src="https://img.shields.io/badge/MSSQL-B22222?style=for-the-badge&logo=sql&logoColor=white"/>
     </a>
