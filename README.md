@@ -5,19 +5,18 @@
 
 <br/>
 
-🌎 이름 : 임성수 <br/>
-🌱 활동 : ☑️윈도우 플랫봄기반 IoT시스템 개발자과정 (2022.01.24 ~ 2022.09.07) <br/> ☑️IT기획 <스마트팩토리, S/W R&D>  (2022/08 ~ 2023/02) <br/> 
-          ☑️한국해양대학교 컴퓨터공학과 (2023/03 ~ ing) <br/>
+🌎 Name : SeongSu IM <br/>
+🌱 Current Activity Status : Korea Maritime and Ocean University Department of Computer Engineering <br/>
 📫 Email : in05013300@gmail.com <br/>
 📽️ Blog  : https://snder.tistory.com/ <br/>
-⚡ 프로그램 :[네이버영화검색(Open API)](https://github.com/Eilison98/StudyCS/tree/main/StudyWpf/PortFolio#naver-%EC%98%81%ED%99%94%EA%B2%80%EC%83%89)
-,                  [SmartHome 모니터링앱](https://github.com/Eilison98/StudyCS/tree/main/StudyWpf/PortFolio#smarthome-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%95%B1)
+⚡ Program Development :[Naver Movie Search(Open API)](https://github.com/Eilison98/StudyCS/tree/main/StudyWpf/PortFolio#naver-%EC%98%81%ED%99%94%EA%B2%80%EC%83%89)
+,                  [SmartHome onitoring](https://github.com/Eilison98/StudyCS/tree/main/StudyWpf/PortFolio#smarthome-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%95%B1)
     
 <br/>
 
     
 ## Using Languages
-(클릭하면 해당 Repository로 이동)
+(Click to go to the repository)
 <p align='center'>
     <a href=https://github.com/Eilison98/StudyC>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
