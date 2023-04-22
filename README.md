@@ -46,7 +46,6 @@
         <a href="https://github.com/Eilison98/OpenCV_Python">
         <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
-        <a href=>
         <img src="https://img.shields.io/badge/Dart-5882FA?style=for-the-badge&logo=Dart&logoColor=white"/>
    </a>
 </p>
