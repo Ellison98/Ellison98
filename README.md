@@ -1,40 +1,29 @@
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you.
 
-<div align = "center">
-
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you.
-
-<br/>
-
-🌎 Name : SeongSu IM <br/>
-🌱 Current Activity Status : Korea Maritime and Ocean University Department of Computer Engineering <br/>
-📫 Email : in05013300@gmail.com <br/>
-📽️ Blog  : https://snder.tistory.com <br/>
-⚡ Program Development : 
-    
-<br/>
-    
-## Using Languages
-(Click to go to the repository)
-<p align='center'>
-    </a>
-        <a href=https://github.com/Eilison98/JavaWorkspace>
-        <img src="https://img.shields.io/badge/JAVA-B22519?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-        <a href="https://github.com/Eilison98/StudyWeb">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    </a>
-        <a href="https://github.com/Eilison98/StudyWeb">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    </a>
-        <a href="https://github.com/Eilison98/StudyWeb">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<p>
+  <a href="https://snder.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/SeongsuIm-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="in05013300@gmail.com" target="_blank"><img src="https://img.shields.io/badge/in05013300@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
+<p>
+  👋&nbsp; Hi there! I'm <b>full stack developer</b> skilled in API, WEB, and APP.🚀<br/>
+  I have experience 7 years of Android development and 2 years of iOS development.<br/>
+  At present, I have been interested in creating Graph-QL APIs with Quarkus and a web screen with React.<br/>
+  Sometimes I develop cross-platforms mobile app like ReactNative or Flutter. (but prefer native💖)<br/><br/>
+  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
+  I hope to develop every beautiful things. ✨ <br/><br/>
+</p>
 
-<br/>
-
-## BaekJoon Online Judge
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=in3300)](https://solved.ac/in3300/)
-
-<br/>
-
-</div>
+### 💪 Skills
+#### Platforms & Languages
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+</p>
