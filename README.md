@@ -15,6 +15,8 @@
 ### 💪 Skills
 #### Platforms & Languages
 <p>
+  <img src="https://img.shields.io/badge/spring-428813?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-0ABF53?style=flat-square&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 </p>
