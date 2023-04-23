@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://velog.io/@eilison" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/SeongsuIm-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/%EC%84%B1%EC%88%98-%EC%9E%84-2a2487219/" target="_blank"><img src="https://img.shields.io/badge/SeongsuIm-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="in05013300@gmail.com" target="_blank"><img src="https://img.shields.io/badge/in05013300@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
