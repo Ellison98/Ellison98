@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm want to be <b>full stack developer</b>.🚀<br/>
+  👋&nbsp; Hi there! I'm Frontend developer</b>. 🚀<br/>
    I am currently studying development at university.<br/>
    My future goal is to become a good developer and create good programs.
 </p>
