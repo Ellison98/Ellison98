@@ -20,6 +20,7 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-ECD53F?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-051937?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
 ### BaekJoon Online Judge
