@@ -1,5 +1,5 @@
 <!-- ================================================================================================================================================================ -->
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you.
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you.
 
 <p>
   <a href="https://velog.io/@eilison" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
@@ -8,20 +8,26 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm Frontend developer</b>. 🚀<br/>
-   I am currently studying development at university.<br/>
-   My future goal is to become a good developer and create good programs.
+   - 🔭 Hi there! I'm Frontend developer <br/>
+   - 🌱 I am currently studying development at university. <br/>
+   - 😄 My future goal is to become a good developer and create good programs.
 </p>
 <!-- ================================================================================================================================================================ -->
 
+<br/>
+
 <!-- ================================================================================================================================================================ -->
-### 💪 Skills
+## 💪 Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,nodejs,react)](https://skillicons.dev)
 [![My Tools](https://skillicons.dev/icons?i=vscode,mysql)](https://skillicons.dev)
 <!-- ================================================================================================================================================================ -->
 
-### GitHub top languages
+<br/>
+
+<!-- ================================================================================================================================================================ -->
+## GitHub top languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eilison98&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-### GitHub stats
+## GitHub stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eilison98&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<!-- ================================================================================================================================================================ -->
