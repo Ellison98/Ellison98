@@ -20,8 +20,6 @@
 [![My Tools](https://skillicons.dev/icons?i=vscode,mysql)](https://skillicons.dev)
 <!-- ================================================================================================================================================================ -->
 
-<br/>
-
 <!-- ================================================================================================================================================================ -->
 ## GitHub top languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eilison98&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
