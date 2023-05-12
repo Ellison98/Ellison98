@@ -16,24 +16,8 @@
 
 <!-- ================================================================================================================================================================ -->
 ### 💪 Skills
-#### Platforms & Languages
-<p>
-  <img src="https://img.shields.io/badge/node.js-0ABF53?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-ECD53F?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-0081CF?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-051937?style=flat-square&logo=python&logoColor=white"/>
-</p>
-
-#### Tools
-<p>
-  <img src="https://img.shields.io/badge/MySql-0089BA?style=flat-square&logo=MySql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Visual Studio Code-009EFA?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,nodejs,react)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscode,mysql)](https://skillicons.dev)
 <!-- ================================================================================================================================================================ -->
 
 ### GitHub top languages
