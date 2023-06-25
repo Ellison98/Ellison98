@@ -16,8 +16,8 @@
 
 <!-- ================================================================================================================================================================ -->
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,nodejs,react,vuejs)](https://skillicons.dev)
-[![My Tools](https://skillicons.dev/icons?i=vscode,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,nodejs)](https://skillicons.dev) <!-- ts,react,vuejs -->
+[![My Tools](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) <!-- ,mongodb -->
 <!-- ================================================================================================================================================================ -->
 
 <!-- ================================================================================================================================================================ -->
