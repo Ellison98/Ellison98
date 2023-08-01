@@ -7,7 +7,7 @@
   <a href="in05013300@gmail.com" target="_blank"><img src="https://img.shields.io/badge/in05013300@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<p>
+<p>ㅁ
    🔭 Hi there! I'm Frontend developer <br/>
    🌱 I am currently studying development at university. <br/>
    😄 My future goal is to become a good developer and create good programs.
