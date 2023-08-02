@@ -16,8 +16,11 @@
 
 <!-- ================================================================================================================================================================ -->
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,nodejs)](https://skillicons.dev) <!-- ts,react,vuejs -->
-[![My Tools](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) <!-- ,mongodb -->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,java,py)](https://skillicons.dev) <!-- ts,react,vuejs -->
+<br>
+
+## Tools
+[![My Tools](https://skillicons.dev/icons?i=mysql,vscode,idea,figma&theme=light)](https://skillicons.dev) <!-- ,mongodb -->
 <!-- ================================================================================================================================================================ -->
 
 <!-- ================================================================================================================================================================ -->
