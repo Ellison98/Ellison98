@@ -16,11 +16,11 @@
 
 <!-- ================================================================================================================================================================ -->
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,spring,py)](https://skillicons.dev) <!-- ts,react,vuejs -->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py)](https://skillicons.dev) <!-- ts,react,vuejs -->
 <br>
 
 ## Tools
-[![My Tools](https://skillicons.dev/icons?i=mysql,eclipse,vscode,figma&theme=light)](https://skillicons.dev) <!-- idea ,mongodb -->
+[![My Tools](https://skillicons.dev/icons?i=mysql,vscode,figma&theme=light)](https://skillicons.dev) <!-- idea ,mongodb -->
 <!-- ================================================================================================================================================================ -->
 
 <!-- ================================================================================================================================================================ -->
