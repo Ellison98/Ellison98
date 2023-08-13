@@ -20,7 +20,7 @@
 <br>
 
 ## Tools
-[![My Tools](https://skillicons.dev/icons?i=mysql,vscode,figma&theme=light)](https://skillicons.dev) <!-- idea ,mongodb -->
+[![My Tools](https://skillicons.dev/icons?i=mysql,eclipse,vscode,figma&theme=light)](https://skillicons.dev) <!-- idea ,mongodb -->
 <!-- ================================================================================================================================================================ -->
 
 <!-- ================================================================================================================================================================ -->
