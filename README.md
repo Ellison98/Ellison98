@@ -8,7 +8,7 @@
 </p>
 
 <p>
-   🔭 Hi there! I'm Web developer <br/>
+   🔭 Hi there! I'm developer <br/>
    🌱 I am currently studying development at university. <br/>
    😄 My future goal is to become a good developer and create good programs.
 </p>
