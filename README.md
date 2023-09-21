@@ -16,7 +16,7 @@
 
 <!-- ================================================================================================================================================================ -->
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,py)](https://skillicons.dev) <!-- ts,react,vuejs -->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) <!-- ts,react,vuejs,py -->
 <br>
 
 ## Tools
