@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/%EC%84%B1%EC%88%98-%EC%9E%84-2a2487219/" target="_blank"><img src="https://img.shields.io/badge/SeongsuIm-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="in05013300@gmail.com" target="_blank"><img src="https://img.shields.io/badge/in05013300@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
-
+ 
 <p>
    🔭 Hi there! I'm developer <br/>
    🌱 I am currently studying development at university. <br/>
