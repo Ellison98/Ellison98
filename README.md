@@ -20,7 +20,7 @@
 <br>
 
 ## Tools
-[![My Tools](https://skillicons.dev/icons?i=androidstudio,vscode,figma&theme=light)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscode,androidstudio,figma&theme=light)](https://skillicons.dev)
 <!-- ================================================================================================================================================================ -->
 
 <!-- ================================================================================================================================================================ -->
