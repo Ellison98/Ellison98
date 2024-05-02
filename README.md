@@ -16,7 +16,7 @@
  
 <!-- ================================================================================================================================================================ -->
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,react)](https://skillicons.dev) <!-- dart,flutter, -->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev) <!-- py,dart,flutter, -->
 <br>
 
 ## Tools
