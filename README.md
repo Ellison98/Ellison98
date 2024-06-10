@@ -15,20 +15,16 @@
 <!-- ================================================================================================================================================================ -->
  
 <!-- ================================================================================================================================================================ -->
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,react)](https://skillicons.dev) <!-- py,dart,flutter, -->
+## Skills & Tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vscode,figma)](https://skillicons.dev) <!-- py,dart,flutter, -->
 <br>
-
-## Tools
-[![My Tools](https://skillicons.dev/icons?i=vscode,figma&theme=light)](https://skillicons.dev)
-<!-- ================================================================================================================================================================ -->
 
 <!-- ================================================================================================================================================================ -->
 ## GitHub top languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ellison98&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-## GitHub stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ellison98&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<!-- ## GitHub stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ellison98&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/> -->
 <!-- ================================================================================================================================================================ -->
 
 <!-- ================================================================================================================================================================ -->
