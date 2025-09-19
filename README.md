@@ -7,11 +7,6 @@
   <a href="mailto:imtheo9851@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/imtheo9851@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<p>
-   🔭 Hi there! I'm developer <br/>
-   🌱 I am currently studying development at university. <br/>
-   😄 My future goal is to become a good developer and create good programs.
-</p>
 <!-- ================================================================================================================================================================ -->
  
 <!-- ================================================================================================================================================================ -->
